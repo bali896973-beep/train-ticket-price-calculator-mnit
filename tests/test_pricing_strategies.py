@@ -41,8 +41,8 @@ class TestFixPricingStrategy:
             ticket_type=TicketType.GENERAL,
             coach_type=CoachType.AC_3,
             number_of_passengers=2,
-            from_station="Kota",
-            to_station="Jaipur",
+            from_station="Kota"
+            to_station="Jaipur"
             stations=stations,
         )
 
