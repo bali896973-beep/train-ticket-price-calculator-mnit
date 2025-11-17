@@ -110,7 +110,7 @@ class TestFixPricingStrategy:
             coach_type=CoachType.AC_2,
             number_of_passengers=1,
             from_station="A",
-            to_station="D",
+            to_station="D"
             stations=stations,
         )
 
